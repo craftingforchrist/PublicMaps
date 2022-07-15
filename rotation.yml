@@ -1,0 +1,15 @@
+#
+# PGM
+# Map pool configuration.
+
+pools:
+
+  Spring:
+    type: ordered
+    enabled: true
+    dynamic: true
+    players: 0
+    maps:
+      - "Airship Battle"
+      - "Harb"
+      - "Medieval"
